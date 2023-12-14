@@ -29,6 +29,10 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.nav-links:hover {
+    text-decoration: underline;
+}
+
 #big-words-container {
     background-image: url('https://tolkiengateway.net/w/images/thumb/5/57/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Account_of_Isildur.jpg/1200px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Account_of_Isildur.jpg');
     background-size: cover;
@@ -71,6 +75,10 @@
     padding: 12px 18px;
     color: white;
     font-size: 20px;
+}
+
+.button:hover {
+    text-decoration: underline;
 }
 
 #article-button {
