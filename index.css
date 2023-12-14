@@ -31,6 +31,7 @@
 
 #big-words-container {
     background-image: url('https://tolkiengateway.net/w/images/thumb/5/57/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Account_of_Isildur.jpg/1200px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Account_of_Isildur.jpg');
+    background-size: cover;
     display: flex;
     flex-direction: column;
     gap: 10px;
